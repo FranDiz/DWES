@@ -10,6 +10,12 @@ public class ejercicio13 {
         System.out.println("Introduce el tercer número");
         var c = escaner.nextInt();
         int[] lista = {a, b, c};
-        for
+        for (int i: lista){
+            if (lista[i]>lista[0]){
+                var numrepuesto=lista[0];
+                lista[i]
+            }
+
+        }
     }
 }

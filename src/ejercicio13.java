@@ -13,7 +13,7 @@ public class ejercicio13 {
         for (int i: lista){
             if (lista[i]>lista[0]){
                 var numrepuesto=lista[0];
-                lista[i]
+
             }
 
         }
